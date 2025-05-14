@@ -37,7 +37,7 @@ h1 {
     margin-left: 0px;
     margin-right: 10px;
     margin-top: -40px;
-    padding-left: 10px;
+    padding-left: 20px;
     border-left: 1px solid #fff;
 }
 
@@ -54,7 +54,7 @@ h3 {
     font-size: smaller;
     font-weight: lighter;
     font-style: italic;
-    padding-right: 70px;
+    padding-right: 60px;
     padding-top:10px;
     text-align: center;
 }
@@ -115,7 +115,7 @@ table {
 /*	border-bottom:#09F thin solid;
 	border-bottom-width:3px;*/
 	padding:0px 0px 0px 0px;
-	margin:0px 0px 50px 40px;
+	margin:0px 0px 50px 50px;
 	line-height:13px;
 }
 
